@@ -13,10 +13,9 @@ CSS
 JS basic knowledge
 GitHub
 C#
-VS Code
 C/C++
 5.English
-My level of English is A2
+My level of English is A2.
 6.Education:
 Now I am studying in BSTU(Minsk) at the faculty of information technology on the specialty "Information System and Technology" on the 2nd course.
 HTML Acacdemy https://htmlacademy.ru
